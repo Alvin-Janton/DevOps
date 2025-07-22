@@ -51,3 +51,6 @@ This repository contains the following CI/CD projects, each with its own dedicat
 Each project has its own dedicated folder containing a detailed `README.md` with an architecture diagram, specific technologies used, key concepts demonstrated, and steps taken for implementation. Feel free to navigate through them to understand each part of the pipeline!
 
 ---
+
+### Architecture
+
