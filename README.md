@@ -1,4 +1,4 @@
-# Comprehensive CI/CD Pipeline on AWS
+# DevOps CI/CD Pipeline with AWS
 
 ---
 
