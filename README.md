@@ -53,4 +53,8 @@ Each project has its own dedicated folder containing a detailed `README.md` with
 ---
 
 ### Architecture
+This diagram provides a high-level overview of the end-to-end CI/CD pipeline, illustrating the flow of code and the interaction between the different AWS services across its stages.
+
+---
+![CI/CD Pipeline Architecture Diagram](https://raw.githubusercontent.com/Alvin-Janton/DevOps/main/aws-cicd.png)
 
